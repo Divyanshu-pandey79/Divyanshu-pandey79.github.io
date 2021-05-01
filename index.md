@@ -22,7 +22,7 @@ GiftUs :
 - Website : [Click Here](https://giftus.netlify.app/)
 
 Fitness :
--I am fitness enthusiastic and once made 2 abs and lost 12kg in 4 months.
+- I am fitness enthusiastic and once made 2 abs and lost 12kg in 4 months.
 
 VFIN : 
 - A Vehicle Finance Platform for Agents to easily recover and track loans of a vehicle
