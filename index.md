@@ -1,17 +1,20 @@
 ## Welcome to my website
 
-H
 ### About me
-hey, myself Divyanshu pandey. I am medical student, part time chegg expert and love to do standup comedy, drawing and sometimes writings.
+Hey, myself Divyanshu pandey. I am medical student, part time chegg expert and love to do standup comedy, drawing and sometimes writings.
 
  I'm a Full Stack Web Developer and an Enthusiastic Learner.
 
-### Major interest
+### Major projets and collaborations
 
 Share Hub :
 - A platform where people of same community can share usefull stuffs that can benefits the whole community.
 - Repository : [Click Here](https://github.com/abhishek-geek/share-hub)
 - Website : [Click Here](https://share-hub.netlify.app/)
+
+Blogs : 
+- [click to checkout](mappingsciencewithdivyanshu.blogs.com)
+- I write blogs on science related topics.
                
 GiftUs : 
 - A place where you can find gifts for your loved ones.
@@ -23,6 +26,5 @@ VFIN :
 - Repository : [Click Here](https://github.com/abhishek-geek/vfin)
 
 ### Connect with me 
-- [Github](https://github.com/abhishek-geek)
-- [LinkedIn](https://www.linkedin.com/in/abhishekdubey825/)
-- [Instagram](https://www.instagram.com/_abhishekdubey825/)
+- [Github](https://github.com/Divyanshu-pandey79/)
+- [Instagram](https://www.instagram.com/ninja_nerd69/)
