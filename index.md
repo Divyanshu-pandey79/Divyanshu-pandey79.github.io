@@ -13,7 +13,7 @@ Share Hub :
 - Website : [Click Here](https://share-hub.netlify.app/)
 
 Blogs : 
-- [click to checkout](mappingsciencewithdivyanshu.blogs.com)
+- [click to checkout](https://mappingsciencewithdivyanshu.blogspot.com/)
 - I write blogs on science related topics.
                
 GiftUs : 
