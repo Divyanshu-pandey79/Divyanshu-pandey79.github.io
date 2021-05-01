@@ -20,7 +20,8 @@ GiftUs :
 - A place where you can find gifts for your loved ones.
 - Repository : [Click Here](https://github.com/abhishek-geek/giftus-reactapp)
 - Website : [Click Here](https://giftus.netlify.app/)
-Fitness:
+
+Fitness :
 -I am fitness enthusiastic and once made 2 abs and lost 12kg in 4 months.
 
 VFIN : 
